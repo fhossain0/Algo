@@ -1,1 +1,2 @@
-# Linear_Equation_Algorithms
+# Maths for machine learning 
+
